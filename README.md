@@ -1,0 +1,1 @@
+# opencart_bootswatch_templates
